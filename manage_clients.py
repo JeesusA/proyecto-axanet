@@ -258,3 +258,4 @@ def menu_principal():
 if __name__ == "__main__":
     # Llamamos al menu principal para iniciar el programa
     menu_principal()
+    # Cambio simulado por Carlos Lopez
