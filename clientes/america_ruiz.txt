@@ -1,0 +1,9 @@
+Nombre: america ruiz
+ID_Cliente: AR_20250528_211108
+Teléfono: 1231231234
+Correo: america@a.com
+Fecha Registro: 2025-05-28 21:11:08
+Servicios: 
+- B (2025-05-28 21:11:08)
+- B (2025-05-28 21:11:24)
+- A (2025-05-28 21:11:49)
