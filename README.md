@@ -32,3 +32,4 @@ La aplicación permite:
 ## Notas
 - Los colaboradores Ana García y Carlos López son ficticios, usados para simular interacción en el equipo.
 - Los flujos de GitHub Actions simulan notificaciones al equipo para las acciones de creación, actualización y consulta de clientes.
+- Cambio simulado por Ana García
