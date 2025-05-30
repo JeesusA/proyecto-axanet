@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notificar al equipo
-        run: echo "CLIENTE ACTUALIZADO: America Ruiz. Notificando al equipo: JeesusA, Ana-García, Carlos-López."
+        run: echo "CLIENTE ACTUALIZADO: America Ruiz. Notificando al equipo: Jesus-Anaya, Ana-García, Carlos-López."
