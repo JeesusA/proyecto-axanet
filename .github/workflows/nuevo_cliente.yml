@@ -1,8 +1,0 @@
-name: Notificar Creacion de Cliente
-on: workflow_dispatch
-jobs:
-  notify:
-    runs_on: ubuntu-latest
-    steps:
-      - name: Notificar al equipo
-        run: echo "Nuevo Client Creado - America Ruiz. Notificando al equipo  JeesusA, Ana-Garcia, Carlos-Lopez"
