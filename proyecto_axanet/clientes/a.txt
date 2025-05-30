@@ -1,7 +1,0 @@
-Nombre: a
-ID_Cliente: A_20250530_105756
-Teléfono: a
-Correo: a
-Fecha Registro: 2025-05-30 10:57:56
-Servicios: 
-- a (2025-05-30 10:57:56)

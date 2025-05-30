@@ -1,0 +1,7 @@
+Nombre: america ruiz
+ID_Cliente: AR_20250530_110144
+Teléfono: 1231231234
+Correo: america@empresa.com
+Fecha Registro: 2025-05-30 11:01:44
+Servicios: 
+- datos (2025-05-30 11:01:44)
