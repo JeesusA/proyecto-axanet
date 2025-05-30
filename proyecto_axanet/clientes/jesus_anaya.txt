@@ -1,0 +1,7 @@
+Nombre: jesus anaya
+ID_Cliente: JA_20250530_104446
+Teléfono: 1231231234
+Correo: jesus@empresa.com
+Fecha Registro: 2025-05-30 10:44:46
+Servicios: 
+- data analyst (2025-05-30 10:44:46)

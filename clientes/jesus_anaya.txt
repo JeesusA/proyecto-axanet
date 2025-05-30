@@ -1,8 +1,0 @@
-Nombre: jesus anaya
-ID_Cliente: JA_20250528_211051
-Teléfono: 1231231234
-Correo: jesus@a.com
-Fecha Registro: 2025-05-28 21:10:51
-Servicios: 
-- A (2025-05-28 21:10:51)
-- C (2025-05-28 21:12:19)
