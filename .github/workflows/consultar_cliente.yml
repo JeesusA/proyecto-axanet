@@ -1,8 +1,0 @@
-name: Notificar Consulta de Cliente
-on: workflow_dispatch
-jobs:
-  notify:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Notificar al equipo
-        run: echo "CONSULTA DE CLIENTE: America Ruiz. Notificando al equipo: Jesus-Anaya, Ana-García, Carlos-López."
